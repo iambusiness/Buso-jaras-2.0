@@ -1,0 +1,14 @@
+.maglya{ display: block;
+    margin-left: auto;
+    margin-right: auto;
+}
+.cim{ color: brown;}
+.buso{float: left;
+margin-right: 15px;
+border: 5px white solid;}
+.velence{  position: absolute;
+    left: 288px;}
+    body{background-color:blanchedalmond;}
+    .jankele{ float: right;
+    margin-left: 15px;
+border: 5px white solid;}
